@@ -13,7 +13,8 @@ from app.exceptions import http_exceptions
 from app.db.models import User
 from app.db import db
 from app.auth import auth
-from app.cli import create_database
+from app.logging_config import log_con
+from app.cli import create_database, create_log_folder
 
 
 login_manager = flask_login.LoginManager()
@@ -33,6 +34,7 @@ def create_app():
     bootstrap = Bootstrap5(app)
     app.register_blueprint(simple_pages)
     app.register_blueprint(auth)
+    app.register_blueprint(log_con)
     app.context_processor(utility_text_processors)
     app.config['BOOTSTRAP_BOOTSWATCH_THEME'] = 'Simplex'
     app.register_error_handler(404, page_not_found)
@@ -44,6 +46,7 @@ def create_app():
     db.init_app(app)
     # add command function to cli commands
     app.cli.add_command(create_database)
+    app.cli.add_command(create_log_folder)
     # Setup Flask-User and specify the User data-model
 
     return app
