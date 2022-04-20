@@ -1,0 +1,830 @@
+[2022-04-20 03:04:18,367] 172.22.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:06:39,663] 172.22.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:07:11,268] 172.22.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:08:08,346] 172.22.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:10:04,667] 172.22.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:10:05,151] 172.22.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:10:05,157] 172.22.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:10:06,179] 172.22.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:10:06,276] 172.22.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:10:06,278] 172.22.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:03,329] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:03,537] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:03,537] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:03,568] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: Before Request
+[2022-04-20 03:12:03,568] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: Before Request
+[2022-04-20 03:12:03,572] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:03,572] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:03,573] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: After Request
+[2022-04-20 03:12:03,573] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: After Request
+[2022-04-20 03:12:03,578] 127.0.0.1 requested http://localhost/register
+INFO in __init__: Before Request
+[2022-04-20 03:12:03,578] 127.0.0.1 requested http://localhost/register
+INFO in __init__: Before Request
+[2022-04-20 03:12:04,210] 127.0.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:04,210] 127.0.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:04,211] 127.0.0.1 requested http://localhost/register
+INFO in __init__: After Request
+[2022-04-20 03:12:04,211] 127.0.0.1 requested http://localhost/register
+INFO in __init__: After Request
+[2022-04-20 03:12:04,218] 127.0.0.1 requested http://localhost/login
+INFO in __init__: Before Request
+[2022-04-20 03:12:04,218] 127.0.0.1 requested http://localhost/login
+INFO in __init__: Before Request
+[2022-04-20 03:12:04,256] 127.0.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:04,256] 127.0.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:04,259] 127.0.0.1 requested http://localhost/login
+INFO in __init__: After Request
+[2022-04-20 03:12:04,259] 127.0.0.1 requested http://localhost/login
+INFO in __init__: After Request
+[2022-04-20 03:12:04,383] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:04,383] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:04,383] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:04,831] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:04,831] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:04,831] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:04,834] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:04,834] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:04,834] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:04,899] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:04,899] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:04,899] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:04,899] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,312] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:05,312] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:05,312] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:05,312] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:05,313] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:05,313] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:05,313] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:05,313] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:05,355] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,355] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,355] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,355] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,355] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,574] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:05,574] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:05,574] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:05,574] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:05,574] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:05,576] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:05,576] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:05,576] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:05,576] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:05,576] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:05,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:05,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,036] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,036] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,036] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,036] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,036] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,036] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,041] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,041] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,041] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,041] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,041] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,041] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,108] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,108] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,108] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,108] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,108] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,108] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,108] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,570] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,570] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,570] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,570] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,570] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,570] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,570] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,573] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,573] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,573] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,573] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,573] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,573] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,573] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:12:06,618] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,618] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,618] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,618] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,618] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,618] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,618] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,618] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,840] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,840] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,840] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,840] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,840] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,840] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,840] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,840] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:06,843] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:12:06,843] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:12:06,843] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:12:06,843] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:12:06,843] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:12:06,843] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:12:06,843] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:12:06,843] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:12:06,871] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,871] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,871] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,871] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,871] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,871] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,871] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,871] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:12:06,871] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,325] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,325] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,325] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,325] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,325] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,325] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,325] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,325] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,325] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,332] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:12:07,332] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:12:07,332] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:12:07,332] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:12:07,332] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:12:07,332] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:12:07,332] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:12:07,332] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:12:07,332] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:12:07,398] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,398] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,398] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,398] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,398] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,398] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,398] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,398] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,398] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,398] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:12:07,640] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,640] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,640] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,640] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,640] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,640] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,640] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,640] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,640] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,640] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:12:07,645] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:12:07,645] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:12:07,645] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:12:07,645] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:12:07,645] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:12:07,645] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:12:07,645] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:12:07,645] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:12:07,645] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:12:07,645] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:19,004] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:19,536] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:19,536] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:19,602] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: Before Request
+[2022-04-20 03:13:19,602] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: Before Request
+[2022-04-20 03:13:19,606] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:19,606] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:19,607] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: After Request
+[2022-04-20 03:13:19,607] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: After Request
+[2022-04-20 03:13:19,613] 127.0.0.1 requested http://localhost/register
+INFO in __init__: Before Request
+[2022-04-20 03:13:19,613] 127.0.0.1 requested http://localhost/register
+INFO in __init__: Before Request
+[2022-04-20 03:13:19,960] 127.0.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:19,960] 127.0.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:19,962] 127.0.0.1 requested http://localhost/register
+INFO in __init__: After Request
+[2022-04-20 03:13:19,962] 127.0.0.1 requested http://localhost/register
+INFO in __init__: After Request
+[2022-04-20 03:13:19,970] 127.0.0.1 requested http://localhost/login
+INFO in __init__: Before Request
+[2022-04-20 03:13:19,970] 127.0.0.1 requested http://localhost/login
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,023] 127.0.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:20,023] 127.0.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:20,025] 127.0.0.1 requested http://localhost/login
+INFO in __init__: After Request
+[2022-04-20 03:13:20,025] 127.0.0.1 requested http://localhost/login
+INFO in __init__: After Request
+[2022-04-20 03:13:20,294] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,294] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,294] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,294] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,294] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,674] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:20,674] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:20,674] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:20,674] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:20,674] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:20,677] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:20,677] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:20,677] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:20,677] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:20,677] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:20,745] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,745] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,745] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,745] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,745] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:20,745] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,176] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,176] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,176] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,176] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,176] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,176] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,179] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,179] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,179] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,179] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,179] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,179] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,220] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,220] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,220] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,220] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,220] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,220] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,220] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,634] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,634] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,634] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,634] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,634] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,634] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,634] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,640] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,640] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,640] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,640] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,640] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,640] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,640] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,705] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,705] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,705] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,705] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,705] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,705] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,705] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,705] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:21,970] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,970] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,970] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,970] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,970] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,970] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,970] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,970] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:21,974] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,974] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,974] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,974] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,974] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,974] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,974] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:21,974] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:22,006] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,006] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,006] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,006] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,006] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,006] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,006] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,006] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,006] 127.0.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,260] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,260] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,260] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,260] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,260] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,260] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,260] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,260] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,260] 127.0.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,268] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:22,268] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:22,268] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:22,268] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:22,268] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:22,268] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:22,268] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:22,268] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:22,268] 127.0.0.1 requested http://localhost/
+INFO in __init__: After Request
+[2022-04-20 03:13:22,339] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,339] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,339] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,339] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,339] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,339] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,339] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,339] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,339] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,339] 127.0.0.1 requested http://localhost/about
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,746] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,746] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,746] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,746] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,746] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,746] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,746] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,746] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,746] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,746] 127.0.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:22,749] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:13:22,749] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:13:22,749] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:13:22,749] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:13:22,749] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:13:22,749] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:13:22,749] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:13:22,749] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:13:22,749] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:13:22,749] 127.0.0.1 requested http://localhost/about
+INFO in __init__: After Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:22,781] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,139] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,143] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: After Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,182] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: Before Request
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,492] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: this is the plain message
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:13:23,503] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: After Request
+[2022-04-20 03:28:46,856] 172.22.0.1 requested http://localhost/
+INFO in __init__: Before Request
+[2022-04-20 03:28:47,304] 172.22.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-20 03:28:47,306] 172.22.0.1 requested http://localhost/
+INFO in __init__: After Request
